@@ -299,6 +299,8 @@
         <meta-data android:name="JPUSH_CHANNEL" android:value="developer-default"/>
         <meta-data android:name="JPUSH_APPKEY" android:value="4c2cf4029003a39b3ea74e38" /> <!--  </>值来自开发者平台取得的AppKey-->
         
+        
+        
     </application>
 
 </manifest>
